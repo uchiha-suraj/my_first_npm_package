@@ -1,3 +1,5 @@
+## Download the package from [here](https://www.npmjs.com/package/first_package_suraj).
+
 ## What is this?
 A random number generator.
 
